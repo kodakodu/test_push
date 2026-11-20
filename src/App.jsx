@@ -29,7 +29,7 @@ export default function App() {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et.
           </p>
           <button className="bg-white text-blue-500 font-bold py-3 px-6 rounded-full hover:bg-blue-100 transition">
-            Get Started
+            Get Started 
           </button>
         </div>
       </section>
